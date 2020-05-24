@@ -1,8 +1,52 @@
+*{border: 1px solid green;}
+body {
+    margin:0 40px;
+    padding: 0;
+}
 
 header {
+    background-color: #cccccc;
     width:100%;
     margin:0 auto;
+    text-align: center;
 }
+
+header img {
+    width:100%
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.container {
+    border:1px solid red;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    margin: 0 auto;
+    width: 40%;
+    padding: 10px 20px;
+}
+
+nav ul {
+
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0 20px 0 20px; 
+}
+
 
 footer {
     background-color: #cccccc; 
