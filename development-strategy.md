@@ -28,11 +28,11 @@ __A User can see my initial repository and live demo__
 
 __As a site visitor, I want to know what the web page is called__
 
-> assigned to __
+> assigned to Pavel
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `title`.
+1. This user story was developed locally by Pavel on a brach called `title`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
