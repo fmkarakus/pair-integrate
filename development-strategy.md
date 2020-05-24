@@ -53,7 +53,7 @@ __As a site visitor, I want to know what the web page is called__
 
 __As a site visitor, I want to read an introduction to this web page__
 
-> assigned to __
+> assigned to Fatih
 
 ### Repository
 
@@ -77,7 +77,7 @@ Styling for the new element
 
 __As a site visitor, I want to learn about something cool__
 
-> assigned to __
+> assigned to Fatih
 
 ### Repository
 
