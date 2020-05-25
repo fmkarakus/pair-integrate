@@ -78,6 +78,11 @@ nav a:active, nav a:hover {
     outline: 2px solid rgb(150,0,0,.8);
 }
 
+aside {
+    float: right;
+    width: 25%;
+}
+
 
 footer {
     background-color: sandybrown; 
