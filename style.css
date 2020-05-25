@@ -63,7 +63,6 @@ nav  li {
 }
 
 li.current {
-    /* background: rgb(150,0,0,.2); */
     outline: 2px solid rgb(150,0,0,.8);
 }
 
